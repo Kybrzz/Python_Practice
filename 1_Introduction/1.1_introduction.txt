@@ -1,0 +1,15 @@
+0. Preface 
+- all info in here is to log/document my Python journey
+- course used is 'w3schools.com'
+- start date: 9/18/25 
+- notara (created word for: purposeful, personal set of recalled paraphrases and essential learnings collected from source material, crafted for study and memory.)
+- .txt files collect notara 
+- .py files practice learned concepts 
+
+1. Rudiments
+- python is used for automation and creation 
+- check current version of python installed (python --version)
+- correc syntax to exit python cmd line interface = exit() 
+- INDENTATION IS KEY IN PYTHON 
+    * it is solely for legibility purposes in other languages
+    * conversely to other langs, py indendation is critical
